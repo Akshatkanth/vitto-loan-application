@@ -29,7 +29,7 @@ A full-stack loan application portal built for FinTech company **Vitto**. Applic
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-org/vitto-loan-application.git
+git clone https://github.com/Akshatkanth/vitto-loan-application.git
 cd vitto-loan-application
 ```
 
@@ -92,7 +92,7 @@ Frontend will run at `http://localhost:5173`.
 ### Frontend → Vercel
 1. Import your GitHub repo on [vercel.com](https://vercel.com)
 2. Set **Root Directory** to `frontend/`
-3. Add environment variable: `VITE_API_URL=https://your-render-url.onrender.com`
+3. Add environment variable: `VITE_API_URL=https://vitto-api-gw01.onrender.com`
 
 ---
 
