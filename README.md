@@ -8,8 +8,8 @@ A full-stack loan application portal built for FinTech company **Vitto**. Applic
 
 | Service  | URL |
 |----------|-----|
-| Frontend | _Add your Vercel URL here_ |
-| Backend API | _Add your Render URL here_ |
+| Frontend | https://vitto-loan-application.vercel.app/ |
+| Backend API | https://vitto-api-gw01.onrender.com |
 
 ---
 
